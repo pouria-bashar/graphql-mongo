@@ -1,1 +1,1 @@
-# graphql-mongo
+# graphql starter
